@@ -1,5 +1,5 @@
 ### Hi :]
-<a rel="me" href="https://mastodon.gamedev.place/@AmeKnite">Mastodon</a>
+
 * 🎨 2D : [**Krita**](https://krita.org/), [**Infinite Painter**](https://www.infinitestudio.art/), [**Blender**](https://www.blender.org/)
 * 🔶 3D: [**Blender**](https://www.blender.org/), [**Nomad Sculpt**](https://nomadsculpt.com/)
 * 🎮 Game Engine: [**Bevy**](https://bevyengine.org/)
