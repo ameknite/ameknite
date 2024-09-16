@@ -1,4 +1,4 @@
-### Hi :]
+### HI :]
 
 * 🔶 3D: [**Blender**](https://www.blender.org/)
 * 🎮 Game Engine: [**Bevy**](https://bevyengine.org/)
