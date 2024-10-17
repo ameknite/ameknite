@@ -1,5 +1,6 @@
 ### Hi :]
 
+* 🎨 2D: [**Krita**](https://krita.org/)
 * 🔶 3D: [**Blender**](https://www.blender.org/)
 * 🎮 Game Engine: [**Bevy**](https://bevyengine.org/)
 * 💻 Code: [**Rust**](https://www.rust-lang.org/)
